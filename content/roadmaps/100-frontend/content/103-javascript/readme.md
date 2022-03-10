@@ -1,6 +1,6 @@
 # JavaScript
 
-JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
+JavaScript is a scripting language which allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://www.w3schools.com/js/'>W3Schools – JavaScript Tutorial</BadgeLink>
